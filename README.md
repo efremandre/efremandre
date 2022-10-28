@@ -1,9 +1,6 @@
-<img align="right" width="300" src="https://user-images.githubusercontent.com/25119216/198455467-67a8fd19-dd09-4c11-886a-79c9ba7fe980.gif" />
-
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="debausher | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="efremandre | VK" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img src="https://www.codewars.com/users/efremandre/badges/micro" />][Codewars]
 
 ### Hi, my name Andrew 👋
@@ -11,6 +8,8 @@
 I'm learning Frontend Development. Coding is my hobby and love. ❤️
 
 My goal is to become a professional developer and make the world a better place! 💪
+
+<img width="200" src="https://user-images.githubusercontent.com/25119216/198455467-67a8fd19-dd09-4c11-886a-79c9ba7fe980.gif" />
 
 
 ### Languages and Tools
@@ -33,5 +32,5 @@ My goal is to become a professional developer and make the world a better place!
 
 [telegram]: https://t.me/samodurovv
 [linkedin]: https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%B5%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2-aa2812127
-[vk]: https://vk.com/debausher
+[vk]: https://vk.com/efremandre
 [Codewars]: https://www.codewars.com/users/efremandre
