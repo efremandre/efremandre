@@ -1,10 +1,14 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/25119216/198455467-67a8fd19-dd09-4c11-886a-79c9ba7fe980.gif" />
 
-### Hi, my name Andrew 👋 
+
+
+### Hi, my name Andrew 👋
 
 I'm learning Frontend Development. Coding is my hobby and love. ❤️
 
 My goal is to become a professional developer and make the world a better place! 💪
+
+![codrwars](https://www.codewars.com/users/efremandre/badges/micro)
 
 ### Contacts
 
@@ -27,8 +31,6 @@ My goal is to become a professional developer and make the world a better place!
 </br>
 
 ### Info
-
-![codrwars](https://www.codewars.com/users/efremandre/badges/micro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efremandre&layout=compact)](https://github.com/efremandre/github-readme-stats)
 
