@@ -9,9 +9,6 @@ I'm learning Frontend Development. Coding is my hobby and love. ❤️
 
 My goal is to become a professional developer and make the world a better place! 💪
 
-<img width="200" src="https://user-images.githubusercontent.com/25119216/198455467-67a8fd19-dd09-4c11-886a-79c9ba7fe980.gif" />
-
-
 ### Languages and Tools
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
