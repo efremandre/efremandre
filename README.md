@@ -5,7 +5,7 @@
 
 ### Hi, my name Andrew 👋
 
-I'm learning Frontend Development. Coding is my hobby and love. ❤️
+Coding is my hobby and love. ❤️
 
 My goal is to become a professional developer and make the world a better place! 💪
 
