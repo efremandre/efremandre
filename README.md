@@ -3,11 +3,23 @@
 
 [<img src="https://www.codewars.com/users/efremandre/badges/micro" />][Codewars]
 
-### Hi, my name Andrew 👋
+### Hi, my name is Andrew. I`m coder! 👋
 
-Coding is my hobby and love. ❤️
+Работаю frontend разработчиком в веб-студии с модульной CMS.
+Мой арсенал:
+- html
+- css (less, scss)
+- JavaScript, jQuery
+- TypeScript
+- php (smarty)
+- ReactJS
+- Redux
+- Webpack
+- Vite
+- Gulp
+- Tailwind
 
-My goal is to become a professional developer and make the world a better place! 💪
+Моя цель развиваться как frontend разработчик, стать крутым специалистом и сделать этот мир лучше.
 
 ### Languages and Tools
 
