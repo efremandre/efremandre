@@ -26,9 +26,6 @@ My goal is to develop as a frontend developer, become an outstanding specialist,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efremandre&layout=compact)](https://github.com/efremandre/github-readme-stats)
 </br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=efremandre.visitor-badge&left_text=My%20Page%20Visitors)
-
-
 
 [telegram]: https://t.me/efremandre
 [linkedin]: https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%B5%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2-aa2812127
