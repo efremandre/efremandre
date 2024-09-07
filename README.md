@@ -1,33 +1,24 @@
 [<img align="left" alt="Telegram" width="30px" src="https://user-images.githubusercontent.com/25119216/222981788-3d5fddfa-1a4a-46c2-be25-fdb498dd22cc.svg" />][telegram]
 [<img align="left" alt="LinkedIn" width="30px" src="https://user-images.githubusercontent.com/25119216/222981889-dbe263a1-bcc8-43e2-af09-bc8c7422aa52.svg" />][linkedin]
-
+</br>
 [<img src="https://www.codewars.com/users/efremandre/badges/micro" />][Codewars]
 
 ### Hi, my name is Andrew. I`m coder! 👋
 
-Работаю frontend разработчиком в веб-студии с модульной CMS.
-Мой арсенал:
-- html
-- css (less, scss)
-- JavaScript, jQuery
-- TypeScript
-- php (smarty)
-- ReactJS
-- Redux
-- Webpack
-- Vite
-- Gulp
-- Tailwind
+I work as a frontend developer at a web studio with a modular CMS.
 
-Моя цель развиваться как frontend разработчик, стать крутым специалистом и сделать этот мир лучше.
+My goal is to develop as a frontend developer, become an outstanding specialist, and make the world a better place.
 
-### Languages and Tools
+### Stack and Tools
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="Vite" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </br>
 
