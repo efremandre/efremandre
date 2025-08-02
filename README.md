@@ -2,10 +2,6 @@
 
 ### Hi, my name is Andrew. I`m coder! 👋
 
-I work as a frontend developer at a web studio with a modular CMS.
-
-My goal is to develop as a frontend developer, become an outstanding specialist, and make the world a better place.
-
 ### Stack and Tools
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
